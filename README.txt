@@ -10,3 +10,7 @@ Checks:
 - csslint
 - xmllint
 
+Install:
+
+  $ cd .git/hooks
+  $ wget https://raw.github.com/tisto/plone-git-hooks/master/pre-commit
